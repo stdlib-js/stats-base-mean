@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-04)
+## Unreleased (2025-06-07)
+
+<section class="features">
+
+### Features
+
+-   [`b16cee9`](https://github.com/stdlib-js/stdlib/commit/b16cee91c7c43e34716a7516a6400c316e55bc32) - add support for accessor arrays and refactor `stats/base/mean` [(#5730)](https://github.com/stdlib-js/stdlib/pull/5730)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#5629](https://github.com/stdlib-js/stdlib/issues/5629)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`b16cee9`](https://github.com/stdlib-js/stdlib/commit/b16cee91c7c43e34716a7516a6400c316e55bc32) - **feat:** add support for accessor arrays and refactor `stats/base/mean` [(#5730)](https://github.com/stdlib-js/stdlib/pull/5730) _(by Annamalai Prabu, Athan Reines, Gururaj Gurram)_
 -   [`744337a`](https://github.com/stdlib-js/stdlib/commit/744337aaebfd4a9631f17765bce57a38c5374173) - **refactor:** update paths _(by Gururaj Gurram)_
 
 </details>
@@ -24,8 +47,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Annamalai Prabu
+-   Athan Reines
 -   Gururaj Gurram
 
 </section>
